@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "1056116937101",
+    "firebase_url": "https://leisure-boat-controller-default-rtdb.firebaseio.com",
+    "project_id": "leisure-boat-controller",
+    "storage_bucket": "leisure-boat-controller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056116937101:android:66e9caf4e795a96714adc4",
+        "android_client_info": {
+          "package_name": "com.example.leisure_boat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056116937101-jkqhnqo0tkc54la9knjr9ivb2p6hsdb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUXtWb8H5KMhdFXWHgg6y4v4jywP669Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056116937101-jkqhnqo0tkc54la9knjr9ivb2p6hsdb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056116937101-0b21021ha0dsmakfbrhcv9imikbgph8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leisureBoat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056116937101:android:eb1c3b17e714ba0d14adc4",
+        "android_client_info": {
+          "package_name": "com.example.sensors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056116937101-jkqhnqo0tkc54la9knjr9ivb2p6hsdb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUXtWb8H5KMhdFXWHgg6y4v4jywP669Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056116937101-jkqhnqo0tkc54la9knjr9ivb2p6hsdb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056116937101-0b21021ha0dsmakfbrhcv9imikbgph8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leisureBoat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056116937101:android:8eb44b7916c08c8014adc4",
+        "android_client_info": {
+          "package_name": "com.loi.kkdld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056116937101-jkqhnqo0tkc54la9knjr9ivb2p6hsdb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUXtWb8H5KMhdFXWHgg6y4v4jywP669Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056116937101-jkqhnqo0tkc54la9knjr9ivb2p6hsdb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056116937101-0b21021ha0dsmakfbrhcv9imikbgph8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leisureBoat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

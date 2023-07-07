@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1056116937101-dhg2c722nl4ru689f28m83oce9h4kc25.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1056116937101-dhg2c722nl4ru689f28m83oce9h4kc25</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1T-XCTA9cUqDhcfuzZw9_yKOjW5-xapA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1056116937101</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sensors</string>
+	<key>PROJECT_ID</key>
+	<string>leisure-boat-controller</string>
+	<key>STORAGE_BUCKET</key>
+	<string>leisure-boat-controller.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1056116937101:ios:b0c41f6ef40b6b7c14adc4</string>
+	<key>DATABASE_URL</key>
+	<string>https://leisure-boat-controller-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
